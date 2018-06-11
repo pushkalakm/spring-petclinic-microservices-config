@@ -21,4 +21,4 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: https://discovery.apps.virtusalabs.com/eureka/
+      defaultZone: https://discovery.apps.virtusalabs.com/
